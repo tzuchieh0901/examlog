@@ -6,6 +6,6 @@
         }
     ],
     "require": {
-        "snic104/logger": "dev-master"
+        "tzuchieh0901/logger": "dev-master"
     }
 }
