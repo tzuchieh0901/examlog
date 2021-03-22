@@ -1,0 +1,11 @@
+{
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/tzuchieh0901/logger"
+        }
+    ],
+    "require": {
+        "snic104/logger": "dev-master"
+    }
+}
