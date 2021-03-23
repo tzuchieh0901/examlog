@@ -25,11 +25,10 @@
 	info
 	error
 	notice
-
 	```
 
 * 想法
 	```
 	寫個套件，能讓composer下載
-	再來建立 LoggerInterface介面 和Logger物件使程式可以順利執行run.php
+	再來建立 LoggerInterface介面 和Logger類別使程式可以順利執行run.php
 	```
