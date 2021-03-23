@@ -3,10 +3,10 @@
 * Clone 專案
 
 	```
-	$ git clone https://github.com/snic104/examlog
+	$ git clone https://github.com/tzuchieh0901/examlog
 	```
 
-* 修改 `composer.json` 中的 `[GitHub帳號]` 成為各位的帳號 例如：`kitfbgh`
+* 修改 `composer.json` 中的 `[GitHub帳號]` 成為各位的帳號 例如：`tzuchieh0901`
 
 * 執行以下指令
 
